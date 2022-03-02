@@ -1,9 +1,1 @@
-[
-  {
-    "id": "1213242",
-    "title": "A Book",
-    "imageUrl": "https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg",
-    "description": "This is an awesome book!",
-    "price": "19"
-  }
-]
+[{"id":"1213242","title":"A Book","imageUrl":"https://www.publicdomainpictures.net/pictures/10000/velka/1-1210009435EGmE.jpg","description":"This is an awesome book!","price":"19"},{"title":"mamang","imageUrl":"https://picsum.photos/300/300","description":"asdasdadad","price":"12121","id":"0.1616599961151015"}]
