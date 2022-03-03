@@ -34,7 +34,6 @@ exports.getEditProduct = (req, res, next) => {
       product: product,
       editing: editMode,
     });
-    console.log(product);
   });
 };
 
